@@ -7,8 +7,8 @@ body{
 
 }
 .btn{
-    height: 200px;
-    width:200px;
+    height: 20vmin;
+    width:20vmin;
     border-radius: 20%;
     border:5px solid black;
     margin:2rem;
