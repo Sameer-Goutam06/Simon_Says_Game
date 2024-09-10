@@ -1,4 +1,4 @@
-body{
+1body{
     text-align: center;
 }
 .container{
@@ -7,10 +7,10 @@ body{
 
 }
 .btn{
-    height: 20vmin;
-    width:20vmin;
+    height: 21vmin;
+    width:21vmin;
     border-radius: 20%;
-    border:5px solid black;
+    border:2px solid black;
     margin:2rem;
 }
 .red{
